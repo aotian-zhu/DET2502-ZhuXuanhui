@@ -127,13 +127,6 @@ on its final step. The recorded policy also exhibits local looping.
 
 ![Recorded policy](images/final_policy.gif)
 
-## Presentation
-
-`DTE2502_GA2_Presentation.pptx` contains exactly 15 slides with speaker notes.
-`PRESENTATION_SCRIPT.md` provides the corresponding English narration.
-The target is about 20 seconds per slide, five minutes overall. The recorded
-presentation video is not yet included.
-
 ## Additional Dependencies
 
 `requirements.txt` lists NumPy, pandas, matplotlib, PyTorch, and tqdm.
